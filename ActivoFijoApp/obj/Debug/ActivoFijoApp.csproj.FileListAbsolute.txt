@@ -1,0 +1,16 @@
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\ActivoFijoApp\obj\Debug\ActivoFijoApp.csprojAssemblyReference.cache
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\ActivoFijoApp\obj\Debug\ActivoFijoApp.Form1.resources
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\ActivoFijoApp\obj\Debug\ActivoFijoApp.FormNew.resources
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\ActivoFijoApp\obj\Debug\ActivoFijoApp.Properties.Resources.resources
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\ActivoFijoApp\obj\Debug\ActivoFijoApp.csproj.GenerateResource.cache
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\ActivoFijoApp\obj\Debug\ActivoFijoApp.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\ActivoFijoApp\bin\Debug\ActivoFijoApp.exe.config
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\ActivoFijoApp\bin\Debug\ActivoFijoApp.exe
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\ActivoFijoApp\bin\Debug\ActivoFijoApp.pdb
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\ActivoFijoApp\bin\Debug\Domain.dll
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\ActivoFijoApp\bin\Debug\Infraestructura.dll
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\ActivoFijoApp\bin\Debug\Domain.pdb
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\ActivoFijoApp\bin\Debug\Infraestructura.pdb
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\ActivoFijoApp\obj\Debug\ActivoFijoApp.csproj.CopyComplete
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\ActivoFijoApp\obj\Debug\ActivoFijoApp.exe
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\ActivoFijoApp\obj\Debug\ActivoFijoApp.pdb

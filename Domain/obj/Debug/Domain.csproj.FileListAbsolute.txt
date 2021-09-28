@@ -1,0 +1,5 @@
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\Domain\bin\Debug\Domain.dll
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\Domain\bin\Debug\Domain.pdb
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\Domain\obj\Debug\Domain.dll
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\Domain\obj\Debug\Domain.pdb

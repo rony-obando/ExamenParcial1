@@ -1,0 +1,9 @@
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\Infraestructura\bin\Debug\Domain.dll
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\Infraestructura\bin\Debug\Domain.pdb
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\JADPA_29\source\repos\ActivoFijoApp\Infraestructura\obj\Debug\Infraestructura.pdb
