@@ -3,3 +3,9 @@ C:\Users\JADPA_29\source\repos\ActivoFijoApp\Domain\bin\Debug\Domain.pdb
 C:\Users\JADPA_29\source\repos\ActivoFijoApp\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 C:\Users\JADPA_29\source\repos\ActivoFijoApp\Domain\obj\Debug\Domain.dll
 C:\Users\JADPA_29\source\repos\ActivoFijoApp\Domain\obj\Debug\Domain.pdb
+C:\Users\Usuario\Desktop\ActivoFijoApp\Domain\bin\Debug\Domain.dll
+C:\Users\Usuario\Desktop\ActivoFijoApp\Domain\bin\Debug\Domain.pdb
+C:\Users\Usuario\Desktop\ActivoFijoApp\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ActivoFijoApp\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ActivoFijoApp\Domain\obj\Debug\Domain.dll
+C:\Users\Usuario\Desktop\ActivoFijoApp\Domain\obj\Debug\Domain.pdb
